@@ -1,0 +1,67 @@
+  body {
+    background-color: rgb(234, 221, 253);
+    text-align: center;
+    font-size: 25px;
+    padding: 0;
+    margin: 0;
+  }
+  header {
+    background-color: #22004e;
+    padding: 20px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  
+  section {
+    display: -webkit-flex;
+    display: flex;
+  }
+  
+  nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #332a86;
+    padding: 5px;
+    font-size: 20px;
+    text-align: left;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  footer {
+    background-color: #240079;
+    padding: 8px 0;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+  }
+  
+  img {
+    height: 500px;
+    width: 620px;
+    padding: 20px;
+  }
+
+  .consequencias p,.Cidade p, .Desafios p, .conectando-pontos p, .soluções p, .Rurais-urbanas p{
+    text-align: justify;
+    padding: 0px;
+  }
+
+  a:hover, a{
+    color: #ffffff;
+    justify-content: center;
+  }
+
+  .nav {
+    display: flex; 
+    justify-content: flex-start;}
+
+    h2{
+      text-align: center;
+    }
+
